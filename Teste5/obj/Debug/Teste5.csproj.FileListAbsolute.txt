@@ -1,0 +1,7 @@
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\bin\Debug\Teste5.exe.config
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\bin\Debug\Teste5.exe
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\bin\Debug\Teste5.pdb
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\obj\Debug\Teste5.csproj.AssemblyReference.cache
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\obj\Debug\Teste5.csproj.CoreCompileInputs.cache
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\obj\Debug\Teste5.exe
+C:\Users\erisn\OneDrive\Ambiente de Trabalho\Teste5\Teste5\obj\Debug\Teste5.pdb
